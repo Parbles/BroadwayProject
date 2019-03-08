@@ -17,3 +17,13 @@ h1 {
 .top-links {
   font-size: 18px;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process-heads {
+  font-size: 23px;
+  font-weight: bold;
+}
